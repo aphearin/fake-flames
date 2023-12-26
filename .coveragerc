@@ -1,0 +1,7 @@
+[run]
+source= fake_flames/
+
+omit =
+    fake_flames/__init__.py
+    fake_flames/_version.py
+    fake_flames/tests/*.py
